@@ -1,13 +1,13 @@
 {
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Deterministic code intelligence graph for repositories, served over MCP",
   "homepage": "https://github.com/Attackwave/glasir",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Attackwave/glasir/releases/download/v0.9.0/glasir-0.9.0-windows-x86_64.zip",
-      "hash": "ca0f828318cf422291fe3e56dcfaf27e89872dc9bea218490f2faa0257dcad46",
-      "extract_dir": "glasir-0.9.0-windows-x86_64"
+      "url": "https://github.com/Attackwave/glasir/releases/download/v0.9.1/glasir-0.9.1-windows-x86_64.zip",
+      "hash": "89625a5ce99cc14ea7864decf9fcb5236288e2bfe596406f03c0f3f5e55a47f0",
+      "extract_dir": "glasir-0.9.1-windows-x86_64"
     }
   },
   "bin": "glasir.exe",
